@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkads_lottery_web"]=self["webpackChunkads_lottery_web"]||[]).push([[443],{4335:function(t,e,n){n.r(e),n.d(e,{default:function(){return b}});var a=n(3396);const r={class:"about"},s=(0,a._)("h1",null,"This is an about page",-1),u=[s];function c(t,e){return(0,a.wg)(),(0,a.iD)("div",r,u)}var o=n(89);const i={},l=(0,o.Z)(i,[["render",c]]);var b=l}}]);
+//# sourceMappingURL=about.769de2f1.js.map
